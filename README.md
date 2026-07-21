@@ -11,7 +11,7 @@ BarnesLab Hybrid Identity is Phase 3 of the BarnesLab home lab series. This proj
 
 This lab demonstrates hands-on proficiency in hybrid identity configuration, Azure AD Connect sync, Conditional Access policy enforcement, Multi-Factor Authentication (MFA), and Entra ID user and group management — skills directly aligned with Systems Administrator, Cloud Administrator, and Cloud Security Engineer roles.
 
-📺 **Demo Video:** [Watch the BarnesLab Hybrid Identity Walkthrough on YouTube](#) *(link coming soon)*
+📺 **Demo Video:** [Watch the BarnesLab Hybrid Identity Walkthrough on YouTube](https://youtu.be/HJZZu-UCt7s?si=xBa8sTyO1VS7_Ey2)
 
 ➡️ **Prerequisite:** [BarnesLab Active Directory Home Lab](https://github.com/lbarnes86/barneslab-active-directory-lab) 
 
